@@ -20,7 +20,7 @@ The pose of a coordinate frame is written with respect to another coordinate sys
 
 <img src="three_systems.png" alt="three_systems" style="zoom: 33%;" />
 
-**Figure 2**: Three coordinate systems  $\mathcal F_{0}$, $\mathcal F_{1}$, and  $\mathcal F_{2}$.   $\mathcal F_{0}$ is the global (i.e., standard or canonical system). The other two systems are local coordinate systems that can be represented with respect to the global coordinate system and also with respect to one another. The choice of representation depends on the problem that needs to be solved.
+**Figure 3**: Three coordinate systems  $\mathcal F_{0}$, $\mathcal F_{1}$, and  $\mathcal F_{2}$.   $\mathcal F_{0}$ is the global (i.e., standard or canonical system). The other two systems are local coordinate systems that can be represented with respect to the global coordinate system and also with respect to one another. The choice of representation depends on the problem that needs to be solved.
 
 #### 
 
