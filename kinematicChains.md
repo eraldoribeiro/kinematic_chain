@@ -4,7 +4,7 @@ A kinematic chain is a hierarchical arrangement of rigid bodies connected by joi
 
 ![](https://static.wixstatic.com/media/407007_c5daad03a8db41a394a881b9c59aa224~mv2.png/v1/fill/w_438,h_447,al_c,q_85,enc_auto/1_PNG.png)
 
-**Figure 1**: Kinematic chains modeling the articulation in a human body. The chain's main components are the links and the joints. 
+**Figure 1**: Kinematic chains modeling the articulation in a human body. The chain's main components are the links and the joints (Figure from https://www.rosroboticslearning.com/forward-kinematics). 
 
 Mathematically, the chain can be modeled as a set of multiple local coordinate frames, where each frame $\mathcal F_{i}$ has its pose (i.e., spatial location and orientation) represented with respect to pose of its predecessor frame $\mathcal F_{i-1}$. Figure 2 shows two examples of articulated objects and their kinematic chains modeled as an assembly of local 3-D coordinate systems. 
 
