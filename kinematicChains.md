@@ -132,5 +132,5 @@ $$
 	         1
            \end{bmatrix}.                           
 	\label{changeframesofpoint}
-\end{align} 
+\end{align}
 $$
